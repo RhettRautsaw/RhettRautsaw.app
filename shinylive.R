@@ -48,3 +48,9 @@ largeWASMcheck("shinylive")
 setwd("~/Dropbox/GitHub/ShinyApps/CoordinateMapper/")
 shinylive::export(".","shinylive")
 largeWASMcheck("shinylive")
+
+
+setwd("~/Dropbox/GitHub/ShinyApps/TEST/")
+shinylive::export(".","shinylive")
+largeWASMcheck("shinylive")
+
